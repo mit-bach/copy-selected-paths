@@ -1,0 +1,10 @@
+{
+	"id": "copy-selected-paths",
+	"name": "Copy Selected Paths",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.10",
+	"description": "Copy the absolute filesystem paths of files and folders selected in File Explorer, including multi-select. Hotkey Command-Option-C.",
+	"author": "Dominik Bach",
+	"authorUrl": "https://github.com/mit-bach",
+	"isDesktopOnly": true
+}
